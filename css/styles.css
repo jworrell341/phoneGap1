@@ -6,8 +6,9 @@ body{
 }
 
 #content{
-	height: 25%;
+	margin: 0 auto;
+	line-height: 400%;
 	background: grey;
-	color: white;
+	color: red;
 	cursor: pointer;
 }
